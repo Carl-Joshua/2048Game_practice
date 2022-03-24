@@ -5,7 +5,9 @@ When GUI.java is executed, an empty board will be generated containing 2 initial
 
 Gameplay examples are as follows:<br>
 ![screenshot1Of2048Gameplay](img/initGame.png) <br>
-right arrow pressed
+right arrow pressed <br>
 ![screenshot1Of2048Gameplay](img/ss1.png) <br>
+right arrow pressed <br>
 ![screenshot1Of2048Gameplay](img/ss2.png) <br>
+up arrow pressed <br>
 ![screenshot1Of2048Gameplay](img/ss3.png) <br>
